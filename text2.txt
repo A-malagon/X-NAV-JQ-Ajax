@@ -1,0 +1,2 @@
+<strong style="color:red">Has pulsado el botón</strong>
+<p>Ajax hará que cambie en directo!!!!!</p>
